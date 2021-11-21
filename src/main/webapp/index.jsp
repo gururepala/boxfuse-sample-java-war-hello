@@ -3,8 +3,8 @@
     <title>Boxfuse Sample App: success!</title>
 </head>
 <body style="text-align: center">
-<h1>Congratulations you are a winner!</h1>
-<img src="bike.jpg">
+<h1>Pilli nuvvu worldfamous ehe!!!!!!!!!!!!</h1>
+<img src="Kunjoo.jpeg">
 
 <h2>You have successfully launched your Instance!megastar.com!</h2>
 
